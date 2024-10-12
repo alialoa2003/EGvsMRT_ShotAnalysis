@@ -5,13 +5,13 @@ This Jupyter Notebook provides a comprehensive analysis of the Egypt vs. Maurita
 
 The notebook includes various visualizations, including:
 
-- Distribution of shots per player
+- Distribution of shots per player.
   
-- Pie charts representing shot count and players
+- Pie charts representing shot count and players.
   
-- Insights into shooting situations, particularly from corners
+- Insights into shooting situations, particularly from corners.
   
-- A detailed overview of players with the least shots on goal
+- A detailed overview of players with the least shots on goal.
   
 This project highlights key performance metrics and offers a visual representation of the match dynamics, providing valuable insights into team and player performance.
 
